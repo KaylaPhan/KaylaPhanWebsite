@@ -1,4 +1,18 @@
 h1 {
+    font-size: 40px;
     font-family: cursive;
-    color: darkblue;
+  }
+  
+  h2 {
+    font-size: 30px;
+    font-family: cursive;
+  }
+  
+  #aboutme {
+    font-size: 19px;
+    font-family: cursive;
+  }
+  
+  #contact {
+    font-size: 18px
   }
