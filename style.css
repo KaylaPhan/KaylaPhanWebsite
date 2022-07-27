@@ -1,6 +1,7 @@
 html {
     text-align: center;
   }
+  
   body {
     background: linear-gradient(-50deg, #c4e5ff, #c7b6fa);
   }
@@ -8,11 +9,17 @@ html {
   h1 {
     font-size: 40px;
     font-family: cursive;
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
   }
   
   h2 {
     font-size: 30px;
     font-family: cursive;
+    background-color: white;
+    margin-left: 500px;
+    margin-right: 500px;
   }
   
   #aboutme {
