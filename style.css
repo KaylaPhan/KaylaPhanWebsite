@@ -1,10 +1,9 @@
 html {
   text-align: center;
+  background-color: white;
   margin-left: 200px;
   margin-right: 200px;
-  background-color: white;
 }
-
 body {
   background: linear-gradient(-50deg, #c4e5ff, #c7b6fa);
 }
@@ -22,8 +21,14 @@ h2 {
   font-size: 30px;
   font-family: cursive;
   background-color: white;
-  margin-left: 500px;
-  margin-right: 500px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+#name {
+  margin-left: 400px;
+  margin-right: 400px;
+  background-color: #d4ecff;
 }
 
 #aboutme {
@@ -32,7 +37,7 @@ h2 {
 }
 
 #contact {
-  font-size: 19px;
+  font-size: 18px;
 }
 
 #e1t1 {
