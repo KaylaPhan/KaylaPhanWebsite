@@ -1,21 +1,21 @@
 html {
   text-align: center;
   background-color: white;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 
 body {
-  background: linear-gradient(-50deg, #c4e5ff, #c7b6fa);
+  background: linear-gradient(-50deg, #e5c890, #85c1dc, #babbf1, #f4b8e4);
 }
 
 h1 {
   font-size: 40px;
   font-family: cursive;
   background-color: white;
-  margin-top: 30px;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border: 1px solid black;
 }
 
 h2 {
@@ -24,20 +24,7 @@ h2 {
   background-color: white;
   margin-left: 300px;
   margin-right: 300px;
-}
-
-h3 {
-  font-size: 30px;
-  font-family: cursive;
-  background-color: white;
-  margin-left: 550px;
-  margin-right: 550px;
-}
-
-#name {
-  margin-left: 400px;
-  margin-right: 400px;
-  background-color: #d4ecff;
+  border: 1px solid black;
 }
 
 #aboutme {
